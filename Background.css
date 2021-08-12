@@ -1,0 +1,43 @@
+body {
+    background-color: green;
+  }
+
+header {
+  background-color: #34ad22;
+  }
+  
+  div.center {
+    text-align: center;
+    border: 5px solid #013A20;
+}
+  div.centerconteudo {
+    text-align: center;
+    border: 5px solid #013A20;
+    margin: 10px;
+    padding-bottom: -5px;
+    background-color: #3F4122;
+    color:white;
+}
+
+article {
+  position:relative;
+  left: 27%;
+  padding: 10px;
+  width:fit-content;
+  font-family: sans-serif;
+  background-color: #f1f1f1;
+  height:fit-content;
+}
+footer {
+  background-color: #34ad22;
+  padding: 10px;
+  color: white;
+  text-align: center;
+  border: 5px solid #013A20;
+ 
+}
+a {
+  font-family: sans-serif;
+  font-size: 24px;
+  text-decoration: none;
+}
